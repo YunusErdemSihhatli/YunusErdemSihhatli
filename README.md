@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Y.E.S 👋</h1>
-<h3 align="center">🌱 I'm a software developer at education technologies (EdTech) company.</h3>
-<h3 align="center">🔭 I’m currently working on Futurino Information Systems and freelance projects.</h3>
+
+![YunusErdemSihhatli's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunusErdemSihhatli&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunusErdemSihhatli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
